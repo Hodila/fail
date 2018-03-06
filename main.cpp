@@ -8,6 +8,6 @@ int main()
     cout<<"Enter A and B:";
     cin>>a>>b;
     cout<<"A+B="<<a+b<<'\n';
-    a=a*2;
-    cout<<"2*A="<<a<<'\n';
+    cout<<"2*A="<<a*2<<'\n';
+    cout<<"A-B="<<a-b<<'\n';
 }
